@@ -31,9 +31,6 @@
 - 개발자가 이해하기 쉽게 만든 언어
 - 예) **C, C++, Python, Java** 등
 
-![High-level to low-level](<images/high-level-to-low-level.png>)
-> *고급 언어로 작성한 코드는 “변환 과정”을 거쳐 컴퓨터가 이해하는 형태로 실행된다.*
-
 ---
 
 ### 🧱 저급 언어 (Low-level Language)
